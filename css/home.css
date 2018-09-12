@@ -70,3 +70,12 @@ header{
 	margin-left: 0;
     margin-right: 0;
 }
+footer{
+	position: fixed;
+    overflow: auto;
+    width: 100%;
+    bottom: 0;
+}
+.box_wrap{
+	cursor: pointer;
+}
